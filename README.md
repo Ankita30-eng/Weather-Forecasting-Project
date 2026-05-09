@@ -9,4 +9,4 @@ Database: Storing user queries, preferences, or historical weather data.
 
 API Integration: Fetching live weather information from third-party services.
 
-This project not only strengthens your skills in Python web development but also gives practical exposure to end-to-end application design, making it a great learning experience for aspiring full-stack developers.
+.
